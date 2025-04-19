@@ -8,7 +8,11 @@
     {
       "username": "Roxxie",
       "password": "Crazybotzzz",
-      "ip_whitelist": ["140.213.231.15"]
+      "ip_whitelist": ["140.213.231.15",
+"140.213.64.225",
+"",
+""
+]
     }
   ]
 }
