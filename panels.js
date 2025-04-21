@@ -1,3 +1,3 @@
-{
-  "token"
+[
+  "7881473211:AAFFo6qGJdVlM3J15gkrJJ0HI8c6smx_tKs"
 ]
